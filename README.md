@@ -5,6 +5,7 @@ I'm a software developer who's passionate about design and specializes in fronte
 - Back-end: Node.js, Golang
 - Database: SQLite
 - Front-end: HTML, CSS, JavaScript, React.js, Bootstrap
+- Mobile: Flutter
 - Version control: Git,
 - Design tools: Figma, Adobe Photoshop
 - Project management: Jira, Trello
